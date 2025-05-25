@@ -4,21 +4,7 @@ This project is a **password-based locking system** commonly used in offices and
 
 ## 👥 Team Size
 - **4 members**
-
-## 📌 Contribution
-### 📋 Define Requirements
-- Identified system design requirements.
-- Defined system functions and methods for implementation.
-- Expanded and refined development specifications.
-
-### 🛠 Implementation
-- **Module Implementation**
-  - Developed and implemented the **Incorrect Password Handling** and **Password Verification** modules.
-- **Extended IO Devices**
-  - Configured and integrated the **16x2 LCD display** and **4x4 matrix keypad** for user interaction.
-- **Report Writing**
-  - Structured and prepared the final **report** for project presentation.
-
+  
 ## 💻 Technologies Used
 - **Verilog** (for hardware description and system implementation)
 - **LaTeX** (for professional report writing)
