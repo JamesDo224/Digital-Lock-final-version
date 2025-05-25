@@ -32,5 +32,6 @@ This project is a **password-based locking system** commonly used in offices and
 
 ---
 
-📚 **Note:** This system enhances both convenience and security by eliminating traditional key usage, while incorporating features to prevent unauthorized access attempts.
+## 📚 Report:
+- [https://drive.google.com/file/d/10WOKZZuBMXFmViLQPd2GaL2g37sCdbMO/view?usp=drive_link](https://drive.google.com/file/d/10WOKZZuBMXFmViLQPd2GaL2g37sCdbMO/view?usp=drive_link)
 
