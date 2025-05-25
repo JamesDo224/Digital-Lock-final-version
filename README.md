@@ -7,7 +7,7 @@ This project is a **password-based locking system** commonly used in offices and
   
 ## 💻 Technologies Used
 - **Verilog** (for hardware description and system implementation)
-- **LaTeX** (for professional report writing)
+- **LaTeX** (for report writing)
 
 ## 🔑 Key Features
 - Enter a **4-character password** (digits 0-9 and letters A-F).
